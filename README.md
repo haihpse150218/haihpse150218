@@ -180,6 +180,9 @@ Best way to reach me is through my work — explore the code, open an issue, or 
 <a href="https://github.com/haihpse150218/llm-iac-drift-detection-service">
   <img src="https://img.shields.io/badge/Featured_Project-LLM_IaC_Drift-9D4EDD?style=for-the-badge&logo=github&logoColor=0F0C29&labelColor=0F0C29" alt="featured project link" />
 </a>
+<a href="https://huggingface.co/haihpaws">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-haihpaws-FFD21E?style=for-the-badge&labelColor=0F0C29" alt="hugging face" />
+</a>
 <a href="https://nerf-dev-blog.pages.dev/">
   <img src="https://img.shields.io/badge/Blog-Nerf_Dev-FF006E?style=for-the-badge&logo=astro&logoColor=0F0C29&labelColor=0F0C29" alt="blog link" />
 </a>
