@@ -13,7 +13,7 @@
 <!-- ============ STATUS BADGES ============ -->
 <img src="https://img.shields.io/badge/Focus-Data--Centric_ML-00F5D4?style=for-the-badge&labelColor=0F0C29" alt="focus" />
 <img src="https://img.shields.io/badge/Domain-AI_%2F_LLMs-9D4EDD?style=for-the-badge&labelColor=0F0C29" alt="domain" />
-<img src="https://img.shields.io/badge/Student-FPT_University-FF006E?style=for-the-badge&labelColor=0F0C29" alt="university" />
+<a href="https://fsb.edu.vn/"><img src="https://img.shields.io/badge/FSB-FPT_School_of_Business-FF006E?style=for-the-badge&labelColor=0F0C29" alt="fsb" /></a>
 
 </div>
 
@@ -30,7 +30,7 @@
 class MLEngineer:
     def __init__(self):
         self.name        = "haihpse150218"
-        self.role        = "ML / Data Science learner @ FPT University"
+        self.role        = "ML / Data Science learner · MSE @ FSB (AI & Business Analytics)"
         self.philosophy  = "data > model — clean signal beats big nets"
         self.approach    = ["understand the fundamentals",
                             "engineer the data",
