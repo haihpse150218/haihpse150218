@@ -162,6 +162,9 @@ I write about building and breaking things — <b>AI, ML, and coding agents</b>.
 
 Best way to reach me is through my work — explore the code, open an issue, or start a discussion.
 
+<a href="https://www.linkedin.com/in/haihpse150218/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00F5D4&labelColor=0F0C29" alt="linkedin" />
+</a>
 <a href="https://github.com/haihpse150218">
   <img src="https://img.shields.io/badge/Profile-haihpse150218-00F5D4?style=for-the-badge&logo=github&logoColor=0F0C29&labelColor=0F0C29" alt="github profile" />
 </a>
