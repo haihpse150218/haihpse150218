@@ -5,7 +5,7 @@
 
 <!-- ============ TYPING TAGLINE ============ -->
 <a href="https://github.com/haihpse150218">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=720&height=60&lines=Machine+Learning+with+a+data-centric+mindset;Reuse+%26+fine-tune+pretrained+models;Building+LLM-powered+tools+%26+services;FPT+University+%C2%B7+turning+notes+into+systems" alt="typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=720&height=60&lines=Machine+Learning+with+a+data-centric+mindset;Reuse+%26+fine-tune+pretrained+models;Building+LLM-powered+tools+%26+services;I+build%2C+break+%26+blog+about+both+%40+Nerf+Dev" alt="typing tagline" />
 </a>
 
 <br/>
@@ -140,6 +140,21 @@ human-readable, actionable insight.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,50:9D4EDD,100:FF006E&height=2" alt="divider" />
 
+<!-- ============ WRITING / BLOG ============ -->
+<div align="center">
+
+## <img src="https://img.shields.io/badge/-Writing-9D4EDD?style=flat-square&logo=hashnode&logoColor=00F5D4&labelColor=0F0C29" alt="writing" />
+
+I write about building and breaking things — <b>AI, ML, and coding agents</b>.
+
+<a href="https://nerf-dev-blog.pages.dev/">
+  <img src="https://img.shields.io/badge/Nerf_Dev_Blog-We_build,_break_%26_write_about_both-00F5D4?style=for-the-badge&logo=astro&logoColor=0F0C29&labelColor=0F0C29" alt="nerf dev blog" />
+</a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,50:9D4EDD,100:FF006E&height=2" alt="divider" />
+
 <!-- ============ CONNECT ============ -->
 <div align="center">
 
@@ -152,6 +167,9 @@ Best way to reach me is through my work — explore the code, open an issue, or 
 </a>
 <a href="https://github.com/haihpse150218/llm-iac-drift-detection-service">
   <img src="https://img.shields.io/badge/Featured_Project-LLM_IaC_Drift-9D4EDD?style=for-the-badge&logo=github&logoColor=0F0C29&labelColor=0F0C29" alt="featured project link" />
+</a>
+<a href="https://nerf-dev-blog.pages.dev/">
+  <img src="https://img.shields.io/badge/Blog-Nerf_Dev-FF006E?style=for-the-badge&logo=astro&logoColor=0F0C29&labelColor=0F0C29" alt="blog link" />
 </a>
 
 <br/><br/>
